@@ -4,7 +4,8 @@ Set in the year 2225, players navigate a solar system at war, balancing fleet-sc
 
 **Status:** <code style="color : green">In Development</code>
 
-*This repository serves as a technical portfolio. The source code is maintained in a private repository to protect project IP.*
+
+*This repository serves as a technical portfolio. The source code is maintained in a private repository to protect project IP. Written in C# and Python for Unity*
 
 
 
