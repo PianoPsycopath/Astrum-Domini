@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/dbae3d14-b314-4311-9c4e-f7b4eb6e7b38
 
 ## OVERVIEW
 
-[![Youtube Video](https://github.com/user-attachments/assets/1dcab1ab-3554-41fe-a1c7-11cf6de01a5b)](https://youtu.be/DZl7lQO4yeA?si=3YLQ8PbhG03xbCM0)
+[![Youtube Video](https://github.com/user-attachments/assets/1dcab1ab-3554-41fe-a1c7-11cf6de01a5b)](https://www.youtube.com/watch?v=S3NGf7wmgQI)
 
 
 
